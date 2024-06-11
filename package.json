@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/debitis-maxime-veritatis-molestias",
-  "version": "1.5.36",
+  "version": "1.5.37",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -119,5 +119,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/debitis-maxime-veritatis-molestias/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
